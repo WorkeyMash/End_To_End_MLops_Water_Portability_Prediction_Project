@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 End_To_End_MLops_Water_Portability_Prediction_Project
 ==============================
 
@@ -55,3 +56,7 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# End_To_End_MLops_Water_Portability_Prediction_Project
+A complete Data Science Project
+>>>>>>> e6979f681ffb8e5b560008100916c260e32acf1c
